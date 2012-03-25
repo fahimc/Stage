@@ -7,3 +7,7 @@ Stage.js is a Framework which manages object creation and manipulation. It has t
 Stage.js works with a Sprite Object which is provided with the framework. You can extend this Sprite and create your own custom objects. Stage.js has a built in extend method making  it easier to create objects.
 
 Create A MovieClip (animated sprite sheet) with the MovieClip Object.  
+
+Example Below:
+
+link: http://fahimchowdhury.com/test/html5/canvas/demo/shooting/index.html
